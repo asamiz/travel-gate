@@ -1,0 +1,30 @@
+
+-------------------------------------- Before beginning the work! --------------------------------
+
+1 - Color choosing and matching
+  Solution: We used https://color.adobe.com to find a suitable color group hope you like it :)
+
+2 - Logo design
+  Solution: After a quick search we found that site https://hatchful.shopify.com where we can make simple logo in few SECONDS!
+
+-------------------------------------- After getting the hand dirty with some coding ----------------------------
+
+
+1 - After designing the header we wanted to add some fearures and the problem was how to get icons to represent our feature
+   Solution: We found this site related to ionic framwork: https://ionicons.com/ it was really helpful.
+
+2 - Two rows of photos for cities photos: we tried to fit another row of photos but we didn't make it right
+   Solution: We removed this row and replaced it with huge photos to fill the spaces between rows!
+
+3 - The image in the cite doesn't fit with the name of the opinion teller
+   Solution: After a quick search we found the verticle-align property specifically the value of middle that solved this problem
+
+4 - Adding the huge quotaation sign
+   Solution: We found that we can change the content of an element using css and some codes look like ascii codes in 
+   this site https://css-tricks.com/snippets/html/glyphs/ it was really helpful! 
+
+5 - Using js to navigate through the site is so hardto implement all the internet resources implemented the scroll animation
+    in jQuery
+   Solution: that was really challenging untill we saw that video https://www.youtube.com/watch?v=oUSvlrDTLi4 It really helped :)
+
+ 
